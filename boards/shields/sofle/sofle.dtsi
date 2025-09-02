@@ -1,0 +1,17 @@
+/* Sombrado de sofle.dtsi para Seeeduino XIAO BLE: usar &i2c0 */
+&i2c0 {
+    status = "okay";
+
+    oled0: ssd1306@3c {
+        compatible = "solomon,ssd1306fb";
+        reg = <0x3c>;  /* si tu OLED es 0x3D cámbialo aquí */
+        label = "SSD1306";
+        width = <128>;
+        height = <32>;
+        segment-offset = <0>;
+        page-offset = <0>;
+        segment-remap;
+        com-invdir;
+        mul-contrast = <255>;
+    };
+};

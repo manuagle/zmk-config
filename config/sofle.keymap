@@ -76,7 +76,7 @@
 &kp GRAVE  &kp RA(N1)  &kp EXCL       &kp AT     &kp RA(SLASH)    &kp QUESTION                    &kp CARET       &kp AMPERSAND     &kp ASTERISK          &kp LC(X)              &kp LC(C)    &kp LC(P)
 &kp LCTRL  &kp CARET   &kp AMPS       &kp HASH   &kp DOLLAR       &kp PERCENT                     &kp LEFT_BRACE  &kp RIGHT_BRACE   &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp COLON    &kp SINGLE_QUOTE
 &kp LSHFT  &kp UNDER   &kp PLUS       &kp MINUS  &kp EQUAL        &kp PIPE                        &kp LESS_THAN   &kp GREATER_THAN  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp SEMI     &kp DOUBLE_QUOTES
-&kp LWIN   &kp TILDE   &kp AMPERSAND  &kp PIPE   &kp S            &kp LEFT_ALT  &trans    &trans  &kp RA(Q)       &kp RA(P)         &kp RA(Y)             &kp RA(S)              &kp PERCENT  &kp RIGHT_ALT
+&kp LWIN   &kp TILDE   &kp AMPERSAND  &kp PIPE   &kp LC(R)        &kp LC(S)     &trans    &trans  &kp RA(Q)       &kp RA(P)         &kp RA(Y)             &kp RA(S)              &kp PERCENT  &kp RIGHT_ALT
                        &kp ESCAPE     &kp RCTRL  &kp RIGHT_SHIFT  &trans        &trans    &trans  &kp SPACE       &kp ENTER         &kp BACKSPACE         &kp DEL
             >;
 
